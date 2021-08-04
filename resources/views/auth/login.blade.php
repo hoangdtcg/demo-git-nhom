@@ -1,1 +1,1 @@
-Đây là trang login
+Đây là trang đăng kí

@@ -1,1 +1,1 @@
-<?php
+Đây là trang đăng kí
